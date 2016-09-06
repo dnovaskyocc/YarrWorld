@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yarr Mundo</string>
+    <string name="occ_logo_content_description">occlogo</string>
+    <string name="shiver_me_timbers">Tiembla mis Maderas</string>
+    <string name="toast_message">Yarr Mundo!</string>
+    <string name="welcome_text">Bienvenidos a CS 273 - Desarrollo de Aplicaciones Móviles</string>
+</resources>

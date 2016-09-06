@@ -3,4 +3,5 @@
     <string name="welcome_text">Welcome to CS 273 - Mobile Application Development</string>
     <string name="occ_logo_content_description">occlogo</string>
     <string name="shiver_me_timbers">Shiver me Timbers</string>
+    <string name="toast_message">Yarr World!</string>
 </resources>
